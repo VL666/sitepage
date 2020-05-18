@@ -3,7 +3,7 @@
 
 ![reg]
 
-[reg]: https://vl666.github.io/sitepage/image/reg.PNG "Регистрация"
+[reg]: /image/reg.PNG "Регистрация"
 
 2. Работа клиента
 
@@ -11,13 +11,13 @@
 
 ![client]
 
-[client]: https://vl666.github.io/sitepage/image/client.PNG "Личный кабинет"
+[client]: /image/client.PNG "Личный кабинет"
 
    * Работа с таблицами
 
 ![table]
 
-[table]: https://vl666.github.io/sitepage/image/table.PNG "Тблицы"
+[table]: /image/table.PNG "Тблицы"
 
 
 3. Работа соискателя/сотрудника
@@ -25,13 +25,13 @@
 
 ![worker]
 
-[worker]: https://vl666.github.io/sitepage/image/worker.PNG "Личный кабинет"
+[worker]: /image/worker.PNG "Личный кабинет"
 
    * Переход к таблицам
 
 ![main]
 
-[main]: https://vl666.github.io/sitepage/image/main.PNG "Главное меню"
+[main]: /image/main.PNG "Главное меню"
 
 - [Работа программы](/sitepage/page.html)
 - [Главное меню](/sitepage/index.html)
