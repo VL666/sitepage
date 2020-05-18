@@ -2,9 +2,9 @@
 
 ## Меню 
 
-- [Работа программы](/sitepage/page.md)
-- [Интерфейс программы](/sitepage/skreen.md)
-- [Об авторе](/sitepage/lic.md)
+- [Работа программы](/sitepage/page.html)
+- [Интерфейс программы](/sitepage/skreen.html)
+- [Об авторе](/sitepage/lic.html)
 ## Лицензионная информация 
 
 Программа распространяется на условиях лицензии [Apache License Version 2.0] 
