@@ -2,7 +2,8 @@
 
 ## Меню 
 
-- [Работа программы](/sitepage/skreen.md)
+- [Работа программы](/sitepage/page.md)
+- [Интерфейс программы](/sitepage/skreen.md)
 - [Об авторе](/sitepage/lic.md)
 ## Лицензионная информация 
 
