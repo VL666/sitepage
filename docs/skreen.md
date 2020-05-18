@@ -33,4 +33,8 @@
 
 [main]: https://vl666.github.io/sitepage/image/main.PNG "Главное меню"
 
+- [Работа программы](/sitepage/page.html)
+- [Главное меню](/sitepage/index.html)
+- [Об авторе](/sitepage/lic.html)
+
 (c) Ляпина Мария, 2020
