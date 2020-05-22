@@ -1,4 +1,5 @@
 #Пример кода программы
+
         private void btMaunWindow_Click(object sender, RoutedEventArgs e)
         {
             WorkerProfile mainWindow = new WorkerProfile();
